@@ -1,6 +1,6 @@
 # Oi 👋 é o Ivo.
 
-Bem-vindo ao meu perfil do GitHub, sou um estudante de ADS que provavelmente vai trampar com Back-End.
+Bem-vindo ao meu perfil, sou um estudante de ADS que mexe com computadores desde os 6 anos e que gosta bastante disso.
 
 ---
 
@@ -34,7 +34,7 @@ Bem-vindo ao meu perfil do GitHub, sou um estudante de ADS que provavelmente vai
 
 - **E-mail:** pedroivo0513@gmail.com
 - **LinkedIn:** [Pedro Ivo](https://www.linkedin.com/in/pedro-ivo-rocha/)
-- **Outras coisas:** [Ivo](https://linktr.ee/pedro_ivo)
+- **Outras coisas:** [Linktr.ee](https://linktr.ee/pedro_ivo)
 
 ---
 
