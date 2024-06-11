@@ -1,4 +1,4 @@
-# Oi 👋 é o Ivo.
+# Oi, é o Ivo.
 
 Bem-vindo ao meu perfil, sou um estudante de ADS que mexe com computadores desde os 6 anos e que gosta bastante disso.
 
