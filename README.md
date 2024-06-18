@@ -1,14 +1,14 @@
 # Oi, é o Ivo.
 
-Bem-vindo ao meu perfil, sou um estudante de ADS que mexe com computadores desde os 6 anos e que gosta bastante disso.
+Bem-vindo ao meu perfil, sou estudante de ADS que mexe com computadores desde que se entende por gente.
 
 ---
 
 ## 🚀 Sobre Mim
 
-- 🎓 Fiz DS na Etec de Itaquera e agora estou fazendo ADS na Unidrummond;
-- 🌱 Estou estudando para ser Analista de Dados;
-- 💼 Infelizmente ainda não trabalho na área :(
+- 🎓 Fiz Desenvolvimento de Sistemas na Etec de Itaquera e agora estou fazendo Análise e Desenvolvimento de Sistemas na Unidrummond.;
+- 🌱 Estou estudando para ser Analista de Dados, eu acho, ainda não me decidi.;
+- 💼 Infelizmente ainda não trabalho na área... :(
 
 ---
 
@@ -25,8 +25,8 @@ Bem-vindo ao meu perfil, sou um estudante de ADS que mexe com computadores desde
 ## 📁 Projetos
 
 ### egOS: Cybecrime
-**Descrição:** Jogo de aventura baseado em Texto que estou desenvolvendo desde 2022.
-**Tecnologias:** Python e a biblioteca BearlibTerminal.
+**Descrição:** Jogo de aventura baseado em texto que estou desenvolvendo desde 2022.
+**Tecnologias:** Python e as bibliotecas BearlibTerminal e Pygame.
 
 ---
 
