@@ -12,7 +12,7 @@ Bem-vindo ao meu perfil, sou estudante de ADS que mexe com computadores desde qu
 
 ---
 
-## 🛠️ Habilidades
+## 📚 Habilidades
 
 - **Linguagens:** 
   - ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
