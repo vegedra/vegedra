@@ -1,13 +1,13 @@
 # Oi, é o Ivo.
 
-Bem-vindo ao meu perfil, sou estudante de ADS que mexe com computadores desde que se entende por gente.
+Bem-vindo ao meu perfil. Sou estudante de ADS e mexo com computadores desde que me entendo por gente.
 
 ---
 
 ## 🚀 Sobre Mim
 
-- 🎓 Fiz Desenvolvimento de Sistemas na Etec de Itaquera e agora estou fazendo Análise e Desenvolvimento de Sistemas na Unidrummond.;
-- 🌱 Estou estudando para ser Analista de Dados, eu acho, ainda não me decidi.;
+- 🎓 Fiz Desenvolvimento de Sistemas na Etec de Itaquera e agora estou fazendo Análise e Desenvolvimento de Sistemas na Unidrummond.
+- 🌱 Estou estudando para ser Analista de Dados, eu acho, ainda não me decidi.
 - 💼 Infelizmente ainda não trabalho na área... :(
 
 ---
@@ -15,13 +15,17 @@ Bem-vindo ao meu perfil, sou estudante de ADS que mexe com computadores desde qu
 ## 📚 Habilidades
 
 - **Linguagens:** 
-  - ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-  - ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
-  - ![Batch](https://img.shields.io/badge/Batch-4EAA25?style=for-the-badge&logo=batch&logoColor=white)
+  - Python;
+  - C;
+  - Batch;
+  - HTML & CSS
 
 
 - **Ferramentas:**
-  - ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+  - Git;
+  - Photoshop;
+  - Pacote Office;
+  - Vs Code;
 ---
 
 ## 📁 Projetos
