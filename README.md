@@ -6,9 +6,9 @@ Bem-vindo ao meu perfil. Sou estudante de ADS e mexo com computadores desde que 
 
 ## 🚀 Sobre Mim
 
-- 🎓 Fiz Desenvolvimento de Sistemas na Etec de Itaquera e agora estou fazendo Análise e Desenvolvimento de Sistemas na Unidrummond.
-- 🌱 Estou estudando para ser Analista de Dados, eu acho, ainda não me decidi.
-- 💼 Infelizmente ainda não trabalho na área... :(
+- 🎓 Fiz Desenvolvimento de Sistemas na Etec de Itaquera e agora estou fazendo Análise e Desenvolvimento de Sistemas na Unidrummond;
+- 🌱 Estou estudando para ser Desenvolvedor Back-End e também para entrar na área de dados;
+- 💼 Ainda não trabalho na área.
 
 ---
 
@@ -33,6 +33,10 @@ Bem-vindo ao meu perfil. Sou estudante de ADS e mexo com computadores desde que 
 ### egOS: Cybecrime
 **Descrição:** Jogo de aventura baseado em texto que estou desenvolvendo desde 2022.
 **Tecnologias:** Python e as bibliotecas BearlibTerminal e Pygame.
+
+### HOOBLER
+**Descrição:** Assistente I.A. focado em prover atalhos e otimizar tarefas na máquina do usuário.
+**Tecnologias:** Python e curses para a TUI.
 
 ---
 
