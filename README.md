@@ -1,6 +1,6 @@
 # Oi, é o Ivo.
 
-Bem-vindo ao meu perfil. Sou estudante de ADS e mexo com computadores desde que me entendo por gente.
+Bem-vindo(a) ao meu perfil. Sou estudante de ADS e mexo com computadores desde que me entendo por gente.
 
 ---
 
@@ -8,7 +8,7 @@ Bem-vindo ao meu perfil. Sou estudante de ADS e mexo com computadores desde que 
 
 - 🎓 Fiz Desenvolvimento de Sistemas na Etec de Itaquera e agora estou fazendo Análise e Desenvolvimento de Sistemas na Unidrummond;
 - 🌱 Estou estudando para ser Desenvolvedor Back-End e também para entrar na área de dados;
-- 💼 Ainda não trabalho na área.
+- 💼 Ainda não trabalho na área...
 
 ---
 
@@ -16,16 +16,23 @@ Bem-vindo ao meu perfil. Sou estudante de ADS e mexo com computadores desde que 
 
 - **Linguagens:** 
   - Python;
+  - Java;
+  - Javascript;
+  - SQL;
   - C;
   - Batch;
-  - HTML & CSS
+  - HTML & CSS;
 
 
 - **Ferramentas:**
   - Git;
+  - Power BI;
+  - Corel Draw;
+  - Anaconda;
+  - Jupyter;
   - Photoshop;
   - Pacote Office;
-  - Vs Code;
+  - VS Code;
 ---
 
 ## 📁 Projetos
@@ -44,8 +51,6 @@ Bem-vindo ao meu perfil. Sou estudante de ADS e mexo com computadores desde que 
 
 - **E-mail:** pedroivo0513@gmail.com
 - **LinkedIn:** [Pedro Ivo](https://www.linkedin.com/in/pedro-ivo-rocha/)
-- **Outras coisas:** [Linktr.ee](https://linktr.ee/pedro_ivo)
+- **Meu site:** [vegedra](https://www.vegedra.github.io)
 
 ---
-
-
