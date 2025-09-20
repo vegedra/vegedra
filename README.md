@@ -51,6 +51,6 @@ Bem-vindo(a) ao meu perfil. Sou estudante de ADS e mexo com computadores desde q
 
 - **E-mail:** pedroivo0513@gmail.com
 - **LinkedIn:** [Pedro Ivo](https://www.linkedin.com/in/pedro-ivo-rocha/)
-- **Meu site:** [vegedra](https://www.vegedra.github.io)
+- **Meu site:** [vegedra](https://vegedra.github.io/)
 
 ---
