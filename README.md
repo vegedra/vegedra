@@ -4,15 +4,15 @@ Bem-vindo(a) ao meu perfil. Sou estudante de ADS e mexo com computadores desde q
 
 ---
 
-## 🚀 Sobre Mim
+## Sobre Mim
 
-- 🎓 Fiz Desenvolvimento de Sistemas na Etec de Itaquera e agora estou fazendo Análise e Desenvolvimento de Sistemas na Unidrummond;
-- 🌱 Estou estudando para ser Desenvolvedor Back-End e também para entrar na área de dados;
-- 💼 Ainda não trabalho na área...
+- Fiz Desenvolvimento de Sistemas na Etec de Itaquera e agora estou fazendo Análise e Desenvolvimento de Sistemas na Unidrummond;
+- Estou estudando para ser Desenvolvedor Back-End e também para entrar na área de dados;
+- Ainda não trabalho na área...
 
 ---
 
-## 📚 Habilidades
+## Habilidades
 
 - **Linguagens:** 
   - Python;
@@ -32,10 +32,9 @@ Bem-vindo(a) ao meu perfil. Sou estudante de ADS e mexo com computadores desde q
   - Jupyter;
   - Photoshop;
   - Pacote Office;
-  - VS Code;
 ---
 
-## 📁 Projetos
+## Projetos
 
 ### egOS: Cybecrime
 **Descrição:** Jogo de aventura baseado em texto que estou desenvolvendo desde 2022.
